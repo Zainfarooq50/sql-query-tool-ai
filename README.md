@@ -22,7 +22,7 @@ This Python tool loads CSV data into an in-memory SQLite database, allowing quic
 
 ## 🚀 How to Use
 1. Place your CSV file in the project folder (default: `sample_data.csv`)  
-2. Ensure your OpenAI API key is configured inside `GPT_utils_SQL.py`  
+2. Paste your OPENAI key in .env file.  
 3. Run the tool:  
    ```bash
    python query_tool.py
